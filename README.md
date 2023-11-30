@@ -1,16 +1,38 @@
-### Hi there 👋
+# Aristóteles Fernandes da Silva Filho
 
-<!--
-**engafs/engafs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏫 Engenheiro ambiental formado na universidade tiradentes (UNIT)
+- 💻 Atualmente estou trabalhando com ciência de dados, principalmente relacionado na área ambiental, e automação
+- 🖥️ Sólidos conhecimentos em python, inteligência artificial, aprendizado de máquina, redes neurais, etc.
+- 🌐 Sólidos conhecimentos com geoprocessamento na área de SIG (Sistema de integração Geográfica) e seus softwares: QGIS, ArcGIS
+<br/>
 
-Here are some ideas to get you started:
+## Projetos
+Principais projetos a serem destacados na área ambiental:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Análise de dados sobre os licenciamento ambiental feito pelo IBAMA**: 
+<br/>
+
+## Histórico de fluxo de trabalho dos projetos 
+<br/>
+<div>
+  <a href="https://github.com/engafs/"></a>
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=engafs&&show_icons=true&theme=github_dark"/>
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=engafs&&layout=compact&theme=github_dark"/>
+</div>
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Fernandes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Fernandes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fernandes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fernandes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+<br/>
+
+## Redes Sociais
+
+<div>
+  <a href="mailto:aristotelesfernandes11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5579998461797"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/engafs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@aristotelesfernandes11"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/></a>
+</div>
