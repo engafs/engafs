@@ -16,8 +16,8 @@ Principais projetos a serem destacados na área ambiental:
 <br/>
 <div>
   <a href="https://github.com/engafs/"></a>
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=engafs&&show_icons=true&theme=github_dark"/>
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=engafs&&layout=compact&theme=github_dark"/>
+  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=engafs&&show_icons=true&theme=github_dark"/>
+  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=engafs&&layout=compact&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br/>
