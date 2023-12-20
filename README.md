@@ -10,6 +10,8 @@
 Principais projetos a serem destacados na área ambiental:
 
 * **Análise de dados sobre os licenciamento ambiental feito pelo IBAMA**: https://encurtador.com.br/bnCMV
+* **Análise de dados sobre a evolução das receitas recebidas pelo IBAMA**: https://encurtador.com.br/oz034
+* **Análise de dados geoespaciais da localização dos mangues no Brasil**: https://encurtador.com.br/arKZ5
 <br/>
 
 ## Histórico de fluxo de trabalho dos projetos 
