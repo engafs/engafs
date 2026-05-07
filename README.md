@@ -1,9 +1,10 @@
 # Aristóteles Fernandes da Silva Filho
 
 - 🏫 Engenheiro ambiental formado na universidade tiradentes (UNIT)
-- 💻 Atualmente estou trabalhando com ciência de dados, principalmente relacionado na área ambiental, e automação
-- 🖥️ Sólidos conhecimentos em python, inteligência artificial, aprendizado de máquina, redes neurais, etc.
+- 💻 Atualmente estou trabalhando com ciência de dados, principalmente relacionado na área ambiental, e indústria 4.0
+- 🖥️ Sólidos conhecimentos em python, inteligência artificial, automação industrial, aprendizado de máquina, redes neurais, etc.
 - 🌐 Sólidos conhecimentos com geoprocessamento na área de SIG (Sistema de integração Geográfica) e seus softwares: QGIS, ArcGIS
+- 🛠️ Sólidos conhecimentos com programação de CLPs (WAGO, Schneider, etc)
 <br/>
 
 ## Projetos
