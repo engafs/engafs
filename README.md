@@ -10,9 +10,9 @@
 ## Projetos
 Principais projetos a serem destacados na área ambiental:
 
-* **Análise de dados sobre os licenciamento ambiental feito pelo IBAMA**: https://encurtador.com.br/bnCMV
-* **Análise de dados sobre a evolução das receitas recebidas pelo IBAMA**: https://encurtador.com.br/oz034
-* **Análise de dados geoespaciais da localização dos mangues no Brasil**: https://encurtador.com.br/arKZ5
+* **Análise de dados sobre os licenciamento ambiental feito pelo IBAMA**: [https://encurtador.com.br/bnCMV](https://github.com/engafs/licencas_ambientais_IBAMA)
+* **Análise de dados sobre a evolução das receitas recebidas pelo IBAMA**: [https://encurtador.com.br/oz034](https://github.com/engafs/evolucao_receitas_IBAMA)
+* **Análise de dados geoespaciais da localização dos mangues no Brasil**: [https://encurtador.com.br/arKZ5](https://github.com/engafs/vegetacao_mangue_br)
 <br/>
 
 ## Histórico de fluxo de trabalho dos projetos 
